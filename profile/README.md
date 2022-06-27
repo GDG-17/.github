@@ -28,5 +28,10 @@
 <br>
 <br>
 
+# 시연
+
+<img src="https://github.com/GDG-17/.github/blob/main/profile/4.gif?raw=true" width="30%"></img>
+
+
 # 리소스
 [Figma](https://www.figma.com/file/9WfYsCbrP5IPX3SA57SbrZ/Statusify?node-id=54%3A648)
