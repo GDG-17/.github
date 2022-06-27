@@ -1,12 +1,22 @@
-## Hi there 👋
+# Statusify - 2022 GDG 해커톤 17팀 (대싱: 핵토콘상)
 
-<!--
+### 저에게 망설임 없이 다가와주세요.
+#### 이제 우리는 망설임 없이 연락할 수 있습니다.
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![1](/1.gif)
+> 손쉽게 나의 상태를 설정해주세요!
+
+![2](/2.gif)
+> 연락하고 싶은 친구에게 찔러보기를 이용해보세요!
+> 
+> 그리고 바로 사랑스럽게 전달해주세요!
+
+![3](/3.gif)
+> 아니면 불타오르게 연락하고 싶은 친구가 있나요? 🔥
+> 
+> 관심을 설정하고  친구의 상태가 변경될 때 알림을 받아보세요!
+
+
+# 리소스
+[Figma](https://www.figma.com/file/9WfYsCbrP5IPX3SA57SbrZ/Statusify?node-id=54%3A648)
