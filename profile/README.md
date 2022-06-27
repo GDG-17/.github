@@ -30,7 +30,7 @@
 
 # 시연
 
-<img src="https://github.com/GDG-17/.github/blob/main/profile/4.gif?raw=true" width="30%"></img>
+<img src="https://github.com/GDG-17/.github/blob/main/profile/4.gif?raw=true" width="60%"></img>
 
 
 # 리소스
